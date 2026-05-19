@@ -1,29 +1,29 @@
-# Recruitment Management PBO
+# Recruitment MVC PBO
 
-Object-Oriented Programming (OOP)-based recruitment management system for handling employee recruitment and selection processes.
+MVC-based recruitment management system using Object-Oriented Programming concepts.
 
 ## Features
 - Applicant data management
 - Recruitment process management
-- Selection data system
-- Recruitment status monitoring
+- Selection monitoring
 - Data input and update
+- MVC architecture implementation
 
 ## Technologies
 - Java
+- MVC Architecture
 - OOP Concept
 
 ## System Functions
 - Add applicant data
 - Update recruitment information
-- Display applicant data
-- Manage recruitment process
-- Monitor selection status
+- Display recruitment data
+- Manage selection process
+- Monitor applicant status
 
 ## Concepts Used
+- Model View Controller (MVC)
+- Object-Oriented Programming
 - Class & Object
 - Encapsulation
-- Inheritance
-- Method Implementation
 - Data Management
-
